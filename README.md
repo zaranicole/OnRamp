@@ -12,5 +12,5 @@ Please download and open the file on Jupyter.
 If you would like to input your own lists of artists, please do so on the first code section.
 Then, run all cells.
 
-Thanks!
+Thanks!  
 Zara Saldanha
